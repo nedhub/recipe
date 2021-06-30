@@ -1,4 +1,4 @@
-# nutrition
+# recipe
 
 A new Flutter project.
 
